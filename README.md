@@ -1,8 +1,10 @@
 Linux-Screen-Off
 ================
 
-Script to turn screen off for Linux X11
+This Simple Script is turning the screen off on Linux X11 systems
 
-Simple command 
+The best way to use it is to copy it to your home folder (or somwhere you like) 
 
-The best way to use it is to put it in your home dir (or somwhere you like) and set a keyboard shortcut for it.
+and set a keyboard shortcut for it.
+
+save power, enjoy.
