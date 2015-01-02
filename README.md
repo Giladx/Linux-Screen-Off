@@ -1,4 +1,4 @@
 Linux-Screen-Off
 ================
 
-Script to turn screen off Linux X
+Script to turn screen off for Linux with X11
